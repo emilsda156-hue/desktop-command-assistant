@@ -28,3 +28,8 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project architecture
+- Keep the web workspace browser-only and separate from the downloadable Windows Python app; browsers cannot launch arbitrary desktop applications.
+- Recognize only allowlisted desktop actions and launch fixed executables without a shell; user-entered commands must never become executable system code.
+- Package the Windows source from `windows-assistant/` into `public/downloads/orbit-windows.zip` after changes so the download matches the maintained source.
