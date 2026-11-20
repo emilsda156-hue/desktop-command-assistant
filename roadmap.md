@@ -11,3 +11,12 @@ Ograniczenie weryfikacji: testy poleceń Windows używają kontrolowanych zastę
 - [ ] Dodać pogodę, kursy, status stron, zadania, przypomnienia i jawnie zatwierdzone skrypty.
 - [ ] Dodać głos PL/EN z wyborem języka i zgodą na rozpoznawanie online.
 - [ ] Zaktualizować panel, dokumentację, paczkę i testy.
+
+## Ormi — rozszerzony zakres
+- [ ] Zmienić nazwę na Ormi i paletę na niebiesko-czarną.
+- [ ] Dodać lokalne „Hej Ormi”, mowę PL/EN, zasobnik i animowane kółko po prawej.
+- [ ] Rozpoznawać zainstalowane aplikacje, skróty, Store, launchery i konfigurowane gry/profile.
+- [ ] Rozszerzyć dźwięk, zasilanie, okna, klawiaturę, ekran i bezpieczne pliki.
+- [ ] Dodać rzeczywistą telemetrię; brak czujników/uprawnień raportować bez zmyślonych wartości.
+- [ ] Dodać konfigurację integracji Kalendarza Google przez lokalne logowanie OAuth.
+- [ ] Wyszczególnić ograniczenia sprzętowe i funkcje, których nie można tu sprawdzić.
